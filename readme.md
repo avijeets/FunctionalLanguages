@@ -6,3 +6,4 @@ Running through implementations of random algorithms and problem sets using func
 - **Length** - Finds the length of a list
 - **Sum** - Recursive method for calculating sum. 
 - ** Tail Recursive Sum** - Calculting sum using a tail-recursive method.
+- **Insertion Sort** - Search algorithm using a O(n^2) worst-case runtime.
